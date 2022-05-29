@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
       id: 1,
       nombre: "Algarrobo",
       precio: 20000,
-      imagen: "../images/algarrobo.jpg",
+      imagen: "/images/algarrobo.jpg",
       descripcion: "5 personas",
       categoria: "Playas",
     },
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Cartagena",
       precio: 20000,
       descripcion: "5 personas",
-      imagen: "../images/cartagena.jpg",
+      imagen: "/images/cartagena.jpg",
       categoria: "Playas",
     },
     {
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "El tabo",
       precio: 34000,
       descripcion: "7 personas",
-      imagen: "../images/tabo.jpg",
+      imagen: "/images/tabo.jpg",
       categoria: "Playas",
     },
     {
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Isla Negra",
       precio: 34000,
       descripcion: "7 personas",
-      imagen: "../images/negra.jpg",
+      imagen: "/images/negra.jpg",
       categoria: "Playas",
     },
     {
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Caburga",
       precio: 60000,
       descripcion: "12 personas",
-      imagen: "../images/caburgua.jpg",
+      imagen: "/images/caburgua.jpg",
       categoria: "Cascadas",
     },
   ];
