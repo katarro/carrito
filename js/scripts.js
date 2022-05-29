@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
       id: 1,
       nombre: "Algarrobo",
       precio: 20000,
-      imagen: "/images/algarrobo.jpg",
+      imagen: "/carrito/images/algarrobo.jpg",
       descripcion: "5 personas",
       categoria: "Playas",
     },
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Cartagena",
       precio: 20000,
       descripcion: "5 personas",
-      imagen: "/images/cartagena.jpg",
+      imagen: "/carrito/images/cartagena.jpg",
       categoria: "Playas",
     },
     {
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "El tabo",
       precio: 34000,
       descripcion: "7 personas",
-      imagen: "/images/tabo.jpg",
+      imagen: "/carrito/images/tabo.jpg",
       categoria: "Playas",
     },
     {
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Isla Negra",
       precio: 34000,
       descripcion: "7 personas",
-      imagen: "/images/negra.jpg",
+      imagen: "/carrito/images/negra.jpg",
       categoria: "Playas",
     },
     {
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Caburga",
       precio: 60000,
       descripcion: "12 personas",
-      imagen: "/images/caburgua.jpg",
+      imagen: "/carrito/images/caburgua.jpg",
       categoria: "Cascadas",
     },
     {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Itata",
       precio: 60000,
       descripcion: "12 personas",
-      imagen: "/images/itata.jpg",
+      imagen: "/carrito/images/itata.jpg",
       categoria: "Cascadas",
     },
     {
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Petrohue",
       precio: 70000,
       descripcion: "8 personas",
-      imagen: "/images/petrohue.jpg",
+      imagen: "/carrito/images/petrohue.jpg",
       categoria: "Cascadas",
     },
     {
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Invertida",
       precio: 70000,
       descripcion: "8 personas",
-      imagen: "/images/invertida.jpg",
+      imagen: "/carrito/images/invertida.jpg",
       categoria: "Cascadas",
     },
     {
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Salto del Laja",
       precio: 75000,
       descripcion: "5 personas",
-      imagen: "/images/saltolaja.jpg",
+      imagen: "/carrito/images/saltolaja.jpg",
       categoria: "Cascadas",
     },
     {
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Short Rojo",
       precio: 60000,
       descripcion: "",
-      imagen: "/images/shorts1.jpg",
+      imagen: "/carrito/images/shorts1.jpg",
       categoria: "Ropa",
     },
     {
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Short Rojo Oscuro",
       precio: 60000,
       descripcion: "",
-      imagen: "/images/shorts2.jpg",
+      imagen: "/carrito/images/shorts2.jpg",
       categoria: "Ropa",
     },
     {
@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Pantalon de Terno",
       precio: 50000,
       descripcion: "",
-      imagen: "/images/shorts3.jpg",
+      imagen: "/carrito/images/shorts3.jpg",
       categoria: "Ropa",
     },
     {
@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Short Verde",
       precio: 50000,
       descripcion: "",
-      imagen: "/images/shorts4.jpg",
+      imagen: "/carrito/images/shorts4.jpg",
       categoria: "Ropa",
     },
     {
@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Short Negro",
       precio: 45000,
       descripcion: "",
-      imagen: "/images/shorts5.jpg",
+      imagen: "/carrito/images/shorts5.jpg",
       categoria: "Ropa",
     },
     {
@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Short Mezclilla",
       precio: 45000,
       descripcion: "",
-      imagen: "/images/shorts6.jpg",
+      imagen: "/carrito/images/shorts6.jpg",
       categoria: "Ropa",
     },
   ];

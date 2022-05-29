@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Caburga",
       precio: 60000,
       descripcion: "12 personas",
-      imagen: "/images/caburgua.jpg",
+      imagen: "/carrito/images/caburgua.jpg",
       categoria: "Cascadas",
     },
     {
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Itata",
       precio: 60000,
       descripcion: "12 personas",
-      imagen: "/images/itata.jpg",
+      imagen: "/carrito/images/itata.jpg",
       categoria: "Cascadas",
     },
     {
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Petrohue",
       precio: 70000,
       descripcion: "8 personas",
-      imagen: "/images/petrohue.jpg",
+      imagen: "/carrito/images/petrohue.jpg",
       categoria: "Cascadas",
     },
     {
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Invertida",
       precio: 70000,
       descripcion: "8 personas",
-      imagen: "/images/invertida.jpg",
+      imagen: "/carrito/images/invertida.jpg",
       categoria: "Cascadas",
     },
     {
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: "Salto del Laja",
       precio: 75000,
       descripcion: "5 personas",
-      imagen: "/images/saltolaja.jpg",
+      imagen: "/carrito/images/saltolaja.jpg",
       categoria: "Cascadas",
     },
   ];

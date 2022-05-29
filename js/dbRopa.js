@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Short Rojo",
             precio: 60000,
             descripcion: "",
-            imagen: "/images/shorts1.jpg",
+            imagen: "/carrito/images/shorts1.jpg",
             categoria: "Ropa",
           },
           {
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Short Rojo Oscuro",
             precio: 60000,
             descripcion: "",
-            imagen: "/images/shorts2.jpg",
+            imagen: "/carrito/images/shorts2.jpg",
             categoria: "Ropa",
           },
           {
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Pantalon de Terno",
             precio: 50000,
             descripcion: "",
-            imagen: "/images/shorts3.jpg",
+            imagen: "/carrito/images/shorts3.jpg",
             categoria: "Ropa",
           },
           {
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Short Verde",
             precio: 50000,
             descripcion: "",
-            imagen: "/images/shorts4.jpg",
+            imagen: "/carrito/images/shorts4.jpg",
             categoria: "Ropa",
           },
           {
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Short Negro",
             precio: 45000,
             descripcion: "",
-            imagen: "/images/shorts5.jpg",
+            imagen: "/carrito/images/shorts5.jpg",
             categoria: "Ropa",
           },
           {
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Short Mezclilla",
             precio: 45000,
             descripcion: "",
-            imagen: "/images/shorts6.jpg",
+            imagen: "/carrito/images/shorts6.jpg",
             categoria: "Ropa",
           },
     ];
